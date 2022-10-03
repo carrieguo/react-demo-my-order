@@ -1,3 +1,6 @@
+## 慕课网 react 16实现订单列表及评价功能
+>* 这个项目是为了学习react创建的一个订单列表demo,支持订单列表展示和评价打分
+>* 纯前端项目，数据暂存在mock文件夹下
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
